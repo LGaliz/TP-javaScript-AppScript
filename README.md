@@ -64,5 +64,47 @@ Cada modificación debe actualizar este valor.
 En la columna **Mail (columna B)** verificar que cada dirección de correo electrónico cumpla con el formato corporativo establecido.  
 
 La regla de formato indica que el correo debe componerse por la primera letra del nombre seguida del apellido completo, seguido del dominio de la empresa.  
-Por ejemplo:
+Por ejemplo: jdoe@empresa.com
 
+
+En caso de detectar un correo con formato incorrecto, el script deberá **resaltar la celda correspondiente con un color específico**.  
+El proceso debe ejecutarse **solo cuando se presione el botón “Validar Mails”** del menú que creaste.
+
+---
+
+### Ejercicio 3
+
+Para proteger la identidad de los empleados, se debe generar un **alias único y aleatorio** para cada uno.  
+
+Se proporcionará una API que devuelve nombres de personajes de Harry Potter:
+
+> https://hp-api.onrender.com/api/characters
+
+La idea es usar esta API para completar la columna **C (Alias)** con los nombres obtenidos.  
+El proceso debe ejecutarse **solo cuando se presione el botón “Alias”** del menú que creaste.
+
+---
+
+### 🪄 Bonus
+
+Hacer un **mensaje emergente tipo pop-up** relacionado al punto 2.
+
+---
+
+
+
+
+## 📎 Archivo de trabajo
+
+Podés acceder a la hoja de cálculo base en el siguiente enlace:
+
+👉 [Google Sheets – Trabajo Práctico Apps Script](https://docs.google.com/spreadsheets/d/1XnFH5C-qtKUmu9xqSfuJJI0sA-DxujZReBtBxUrcP0M/edit?usp=sharing)
+
+---
+
+## ✉️ Docentes para la corrección
+
+**Corrección (copiar todos):**  
+flrossi@estudiantes.unsam.edu.ar, lgalizzi@unsam.edu.ar, cuellosantino11@gmail.com, jlopez@unsam.edu.ar, nvargas@estudiantes.unsam.edu.ar
+
+---
